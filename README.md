@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahadasim08&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Hi,+I'm+Ahad+Khan+👋;Full-Stack+AI+Engineer;Building+MAGIC+Ai;Merging+Web+%26+Deep+Learning" alt="Typing SVG" />
 </div>
 
