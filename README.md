@@ -6,12 +6,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full-Stack Developer** and **AI Practitioner** based in Lahore. I specialize in building end-to-end intelligent systems, bridging the gap between robust web architecture and advanced Deep Learning.
+I am a **Full-Stack Web Developer** and **AI Developer** based in Lahore. I specialize in building end to end intelligent systems, bridging the gap between robust web architecture and advanced Deep Learning.
 
 - 🔭 I’m currently working on **MAGIC Ai** (Memory Augmented Generally Intelligent Cognition).
 - 🌱 I’m currently learning **Advanced Neural Network Architectures**.
 - 👯 I’m looking to collaborate on **Open Source AI & Web Projects**.
-- 💬 Ask me about **React, Node.js, SQL Server, and Deep Learning**.
+- 💬 Ask me about **React, Node.js, SQL Server, and Machine/Deep Learning**.
 
 ---
 
