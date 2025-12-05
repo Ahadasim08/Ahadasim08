@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Hi,+I'm+Ahad+Khan+👋;Full-Stack+AI+Engineer;Building+MAGIC+Ai;Merging+Web+%26+Deep+Learning" alt="Typing SVG" />
 </div>
 
+---
+
 ### 👨‍💻 About Me
 
 I am a **Full-Stack Developer** and **AI Practitioner** based in Lahore. I specialize in building end-to-end intelligent systems, bridging the gap between robust web architecture and advanced Deep Learning.
@@ -17,23 +19,6 @@ I am a **Full-Stack Developer** and **AI Practitioner** based in Lahore. I speci
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,python,pytorch,tensorflow,sql,mysql,bootstrap,git,github,vscode" />
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ahadasim08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahadasim08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahadasim08&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
